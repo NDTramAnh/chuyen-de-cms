@@ -1,1 +1,1 @@
-đaay là file week1.txt thuộc brand week1
+đaay là file week1.txt thuộc brand week1 và main
